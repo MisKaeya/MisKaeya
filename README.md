@@ -1,17 +1,5 @@
 <div align="center">
 
-<!--
-  ╔══════════════════════════════════════════╗
-  ║   SETUP — leia antes de subir            ║
-  ║                                          ║
-  ║  1. Crie o repo: MisKaeya/MisKaeya       ║
-  ║     (Public, sem README automático)      ║
-  ║  2. Faça upload do header.svg na raiz    ║
-  ║  3. Cole este README.md na raiz          ║
-  ║  Pronto — o GitHub renderiza sozinho!    ║
-  ╚══════════════════════════════════════════╝
--->
-
 ![Header](./header.svg)
 
 </div>
@@ -20,23 +8,20 @@
 
 ## 🧬 Stack atual
 
-> Proporção real dos meus repositórios — atualiza sozinho conforme novos projetos aparecem.
-
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisKaeya&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b2e&border_radius=12)](https://github.com/MisKaeya)
-
-[![Top Langs Alt](https://github-readme-stats.vercel.app/api/top-langs/?username=MisKaeya&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b2e&border_radius=12&card_width=600)](https://github.com/MisKaeya)
+[![](./profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/MisKaeya)
+[![](./profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/MisKaeya)
+[![](./profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/MisKaeya)
+[![](./profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/MisKaeya)
 
 </div>
 
 ---
 
-## 📊 Stats gerais
+## 🔥 Sequência de contribuições
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MisKaeya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b2e&border_radius=12)](https://github.com/MisKaeya)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MisKaeya&theme=tokyonight&hide_border=true&background=1a1b2e&ring=7aa2f7&fire=ff9e64&currStreakLabel=c0caf5&border_radius=12)](https://github.com/MisKaeya)
 
@@ -48,13 +33,12 @@
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c,python,js,git,linux&theme=dark)](https://skillicons.dev)
+
+<!-- Verilog e FPGA não têm ícone no skillicons — badges manuais abaixo -->
+
 ![Verilog](https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logo=xilinx&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![FPGA](https://img.shields.io/badge/FPGA-Xilinx-FF0000?style=for-the-badge&logo=xilinx&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-Xilinx-CC0000?style=for-the-badge&logo=xilinx&logoColor=white)
 
 </div>
 
